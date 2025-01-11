@@ -1,5 +1,5 @@
 ------ About ------
-This is a custom user module I created to send commands to a Control4 proccessor from a QSYS system using HTTP GET Commands.
+This is a custom user module I created to send commands to a Control4 Processor from a QSYS system using HTTP GET Commands.
 
 This is Rev1 of this module. In the future i will be adding feedback and additional features.
 
