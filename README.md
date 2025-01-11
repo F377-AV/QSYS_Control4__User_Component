@@ -20,3 +20,6 @@ Once commands have been set up in Control4 you can jump into the Qsys module and
 any questions or concerns please email:
 
 JasonZacharyMartinez@Gmail.com
+
+---------------------------------------------
+I have no affiliation with: untestedhacks.com
