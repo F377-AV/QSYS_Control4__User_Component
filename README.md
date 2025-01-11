@@ -18,6 +18,8 @@ Install Driver on Control4 Proccessor and then program commands.
 
 Once commands have been set up in Control4 you can jump into the Qsys module and follow the internal documentation.
 
+Place the <b>Control4_Module_Created_By_Jason_Martinez_Rev1.quc</b> in your <b>C:\Users\YOUR NAME\Documents\QSC\Q-Sys Designer\User Components</b> folder.
+
 ------ Contact. ------
 
 any questions or concerns please email:
