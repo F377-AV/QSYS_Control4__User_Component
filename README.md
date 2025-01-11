@@ -26,5 +26,7 @@ any questions or concerns please email:
 
 JasonZacharyMartinez@Gmail.com
 
+https://www.linkedin.com/in/jason-martinez-597660219/
+
 ---------------------------------------------
 I have no affiliation with: http://untestedhacks.com
