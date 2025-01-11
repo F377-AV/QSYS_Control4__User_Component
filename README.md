@@ -17,6 +17,7 @@ Install Driver on Control4 Proccessor and then program commands.
 Once commands have been set up in Control4 you can jump into the Qsys module and follow the internal documentation.
 
 ------ Contact. ------
+
 any questions or concerns please email:
 
 JasonZacharyMartinez@Gmail.com
